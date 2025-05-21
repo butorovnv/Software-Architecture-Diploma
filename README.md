@@ -49,7 +49,7 @@
 
 
 
-### - БЛОК 2:
+### [- БЛОК 2:](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/task2.1-2.4.md)
 
 2.1 Список ADR.
 
