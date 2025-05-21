@@ -24,7 +24,7 @@
 
 ## Оглавление:
 
-### - БЛОК 1:
+### [- БЛОК 1:](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/task1-10.md)
 
 
 1.1 Детализация и чёткое прописывание бизнес-целей
@@ -49,7 +49,7 @@
 
 
 
-### [- БЛОК 2:](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/task1-10.md)
+### - БЛОК 2:
 
 2.1 Список ADR.
 
