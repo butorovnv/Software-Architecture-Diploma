@@ -44,6 +44,9 @@
 ![Распределение стейкхолдеров по степени вовлеченности и влияния](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/images/stakeholder_pic.png)
 
 ## 1.4 Разработка концептуальной архитектуры.
+
+![DDD_schema](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/images/DDD_schema.png)
+
 ## 1.5 Описание рисков реализации (бизнес и технические).
 
 У каждого архитектурного решения, а так же бизнеса есть свои плюсы и минусы, любое из решений - всегда компромисс
