@@ -27,25 +27,25 @@
 ### [- БЛОК 1:](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/task1-10.md)
 
 
-1.1 [Детализация и чёткое прописывание бизнес-целей](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/task1-10.md#12-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B8-%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9)
+1.1 [Детализация и чёткое прописывание бизнес-целей](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/task1-10.md#11-%D0%B4%D0%B5%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8-%D1%87%D1%91%D1%82%D0%BA%D0%BE%D0%B5-%D0%BF%D1%80%D0%BE%D0%BF%D0%B8%D1%81%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D1%86%D0%B5%D0%BB%D0%B5%D0%B9)
 
-1.2 [Анализ и список функциональных требований]
+1.2 [Анализ и список функциональных требований](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/task1-10.md#12-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B8-%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9)
 
-1.3 [Анализ стейкхолдеров и их интересов]
+1.3 [Анализ стейкхолдеров и их интересов](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/task1-10.md#13-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%81%D1%82%D0%B5%D0%B9%D0%BA%D1%85%D0%BE%D0%BB%D0%B4%D0%B5%D1%80%D0%BE%D0%B2-%D0%B8-%D0%B8%D1%85-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BE%D0%B2)
 
-1.4 [Разработка концептуальной архитектуры]
+1.4 [Разработка концептуальной архитектуры](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/task1-10.md#14-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D1%8B)
 
-1.5 [Описание рисков реализации (бизнес и технические)]
+1.5 [Описание рисков реализации (бизнес и технические)](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/task1-10.md#15-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B8%D1%81%D0%BA%D0%BE%D0%B2-%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%B8-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5)
 
-1.6 [План поэтапной разработки и расширения системы, анализ критически важных компонентов]
+1.6 [План поэтапной разработки и расширения системы, анализ критически важных компонентов](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/task1-10.md#16-%D0%BF%D0%BB%D0%B0%D0%BD-%D0%BF%D0%BE%D1%8D%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D0%B9-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8-%D0%B8-%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%BA%D1%80%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8-%D0%B2%D0%B0%D0%B6%D0%BD%D1%8B%D1%85-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%BE%D0%B2)
 
-1.7 [Выделение критических бизнес-сценариев]
+1.7 [Выделение критических бизнес-сценариев](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/task1-10.md#17-%D0%B2%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D1%80%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B5%D0%B2)
 
-1.8 [Атрибуты качества]
+1.8 [Атрибуты качества](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/task1-10.md#18-%D0%B0%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%82%D1%8B-%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0)
 
-1.9 [Анализ и список нефункциональных требований]
+1.9 [Анализ и список нефункциональных требований](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/task1-10.md#19-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B8-%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BD%D0%B5%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9)
 
-1.10 [Анализ и описание архитектурных опций и обоснование выбора]
+1.10 [Анализ и описание архитектурных опций и обоснование выбора](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/task1-10.md#110-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B8-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D1%8B%D1%85-%D0%BE%D0%BF%D1%86%D0%B8%D0%B9-%D0%B8-%D0%BE%D0%B1%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D0%B0)
 
 
 
