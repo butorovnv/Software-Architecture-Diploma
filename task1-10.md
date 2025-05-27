@@ -57,7 +57,7 @@
 
 Распределение стейкхолдеров по степени вовлеченности и влияния
 
-![Распределение стейкхолдеров по степени вовлеченности и влияния](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/images/stakeholder_pic.png)
+![Распределение стейкхолдеров по степени вовлеченности и влияния](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/images/stakeholder_pic_2.png)
 
 ## 1.4 Разработка концептуальной архитектуры.
 Концепт архитектуры нашего приложения будет выглядеть следующим образом:
