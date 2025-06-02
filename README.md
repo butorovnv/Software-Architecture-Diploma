@@ -27,7 +27,7 @@
 ### - БЛОК 1:
 
 
-1.1 [Детализация и чёткое прописывание бизнес-целей](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/business-goal.md)
+1.1 [Детализация и чёткое прописывание бизнес-целей](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/business-goals.md)
 
 1.2 [Анализ и список функциональных требований](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/functional-requirments.md)
 
