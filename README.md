@@ -43,7 +43,7 @@
 
 1.8 [Атрибуты качества](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/attributes.md)
 
-1.9 [Анализ и список нефункциональных требований](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/non-functional-requirments.md)
+1.9 [Анализ и список нефункциональных требований](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/non-functional-requirements.md)
 
 1.10 [Анализ и описание архитектурных опций и обоснование выбора](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/architectures-comparison.md)
 
