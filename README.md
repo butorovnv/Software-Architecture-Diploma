@@ -51,7 +51,7 @@
 
 ### [- БЛОК 2:](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/task2.1-2.4.md)
 
-[2.1 Список ADR](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/architecture decision records.md)
+[2.1 Список ADR](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/ADR.md)
 
 [2.2 Описание сценариев использования приложения](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/scenarios.md)
 
