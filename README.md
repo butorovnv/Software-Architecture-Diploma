@@ -51,13 +51,13 @@
 
 ### [- БЛОК 2:](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/task2.1-2.4.md)
 
-2.1 Список ADR.
+[2.1 Список ADR](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/architecture decision records.md)
 
-2.2 Описание сценариев использования приложения. 
+[2.2 Описание сценариев использования приложения](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/scenarios.md)
 
-2.3 Базовая архитектура с учётом ограничений бизнес-требований, НФТ, выбранной архитектуры, адресация атрибутов качества.
+[2.3 Базовая архитектура с учётом ограничений бизнес-требований, НФТ, выбранной архитектуры, адресация атрибутов качества](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/scenarios.md)
 
-2.4 Основные представления:
+[2.4 Основные представления](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/predstavleniya.md)
 
 - Функциональное. 
 - Информационное.
