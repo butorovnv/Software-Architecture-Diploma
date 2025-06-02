@@ -54,7 +54,7 @@
 
 [2.2 Описание сценариев использования приложения](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/scenarios.md)
 
-[2.3 Базовая архитектура с учётом ограничений бизнес-требований, НФТ, выбранной архитектуры, адресация атрибутов качества](https://github.com/butorovnv/Software-Architecture-Diploma/edit/main/main_architercture.md)
+[2.3 Базовая архитектура с учётом ограничений бизнес-требований, НФТ, выбранной архитектуры, адресация атрибутов качества](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/main_architercture.md)
 
 [2.4 Основные представления](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/predstavleniya.md)
 
