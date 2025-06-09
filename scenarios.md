@@ -17,3 +17,10 @@
 Приложение запрашивает разрешение на доступ к личным данным пользователя (возраст, пол, предпочтения в видах спорта, тренировочная активность, подписки). Основываясь на полученных данных, оно формирует персонализированные рекомендации по тренировкам, питанию и спортивному инвентарю. Эти рекомендации представлены в виде списка предложений, адаптированных специально под потребности конкретного пользователя. Периодически приложение предлагает обновить персональные настройки, чтобы повысить точность рекомендаций.
 
 ![SWIMLINE_SOCIAL_DIAGRAM](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/images/SWIMLINE_SOCIAL_DIAGRAM.png)
+
+
+## Cценарий №4. Регистрация и авторизация пользователя 
+![SWIMLANE_REGISATRATION](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/images/SWIMLANE_REGISTRATION.png)
+
+## Cценарий №5. Аутентификация пользователя 
+![SWIMLANE_AUTHENTICATION](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/images/SWIMLANE_AUTHENTICATION.png)
