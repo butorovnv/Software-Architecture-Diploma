@@ -65,7 +65,7 @@
 - Безопасность.
 
   
-### [- БЛОК 3:](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/task3.1-3.2.md)
+### - БЛОК 3:
 [3.1 Анализ рисков созданной архитектуры, компромиссов](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/architecture-risk-analysis.md)
 
 [3.2 Стоимость владения системой в первый, второй и пятый годы с учётом роста данных и базы пользователей](https://github.com/butorovnv/Software-Architecture-Diploma/blob/main/cost.md)
